@@ -1,0 +1,14 @@
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\bin\Debug\net8.0\Lambda Expression Demo.exe
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\bin\Debug\net8.0\Lambda Expression Demo.deps.json
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\bin\Debug\net8.0\Lambda Expression Demo.runtimeconfig.json
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\bin\Debug\net8.0\Lambda Expression Demo.dll
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\bin\Debug\net8.0\Lambda Expression Demo.pdb
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\Lambda Expression Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\Lambda Expression Demo.AssemblyInfoInputs.cache
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\Lambda Expression Demo.AssemblyInfo.cs
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\Lambda Expression Demo.csproj.CoreCompileInputs.cache
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\Lambda Expression Demo.dll
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\refint\Lambda Expression Demo.dll
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\Lambda Expression Demo.pdb
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\Lambda Expression Demo.genruntimeconfig.cache
+C:\C#\Lambda Expression Demo\Lambda Expression Demo\obj\Debug\net8.0\ref\Lambda Expression Demo.dll
